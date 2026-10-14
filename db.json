@@ -3,24 +3,24 @@
         {
             "id": 1,
             "nome": "Rafael",
-            "E-mail": "rafael@email.com"
+            "email": "rafael@email.com"
         },
         {
             "id": 2,
             "nome": "Sophia",
-            "E-mail": "sophia@email.com"
+            "email": "sophia@email.com"
         }
     ],
     "products": [
         {
             "id": 1,
             "nome": "Mouse Óptico",
-            "Valor": 99.99
+            "valor": 99.99
         },
         {
             "id": 2,
             "nome": "Teclado Mecânico",
-            "Valor": 999.99
+            "valor": 999.99
         }
     ]
 }
